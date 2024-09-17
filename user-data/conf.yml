@@ -1,8 +1,8 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
-  description: Welcome to your new dashboard!
+  title: Personal Bookmark
+  description: Welcome to your new Bookmark!
   navLinks:
   - title: GitHub
     path: https://github.com/Lissy93/dashy
@@ -25,8 +25,9 @@ sections:
     target: newtab
   - title: GitHub
     description: Source Code, Issues and Pull Requests
-    url: https://github.com/lissy93/dashy
+    url: https://github.com/gedharizka
     icon: favicon
+    target: newtab
   - title: Docs
     description: Configuring & Usage Documentation
     provider: Dashy.to
