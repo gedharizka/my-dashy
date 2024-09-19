@@ -4,7 +4,7 @@ pageInfo:
   title: Personal Bookmark
   description: Welcome to your new Bookmark!
   footerText: Yuhuuuuuu
-  navLinks:[]
+  navLinks: []
 
 # Optional app settings and configuration
 appConfig:
