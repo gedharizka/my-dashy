@@ -5,10 +5,10 @@ pageInfo:
   title: Personal Bookmark
   description: Welcome to your new Bookmark!
   navLinks:[]
-  iconSize: large
 
 # Optional app settings and configuration
 appConfig:
+  iconSize: large
   theme: colorful
 
 # Main content - An array of sections, each containing an array of items
