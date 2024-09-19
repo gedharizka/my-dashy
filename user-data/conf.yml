@@ -1,13 +1,16 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  logo: /dashy-logo.png
   title: Personal Bookmark
   description: Welcome to your new Bookmark!
+  footerText: Yuhuuuuuu
   navLinks:[]
+  # logo:
 
 # Optional app settings and configuration
 appConfig:
+  statusCheck: true
+  statusCheckInterval: 60
   iconSize: large
   theme: colorful
 
