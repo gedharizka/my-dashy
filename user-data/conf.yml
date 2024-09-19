@@ -1,6 +1,7 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
+  icon: https://www.deviantart.com/c2y98/art/G-Comic-Sans-Alphabet-Lore-7-943347022
   title: Personal Bookmark
   description: Welcome to your new Bookmark!
   navLinks:
