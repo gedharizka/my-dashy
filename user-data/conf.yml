@@ -16,7 +16,7 @@ appConfig:
 # Main content - An array of sections, each containing an array of items
 sections:
 - name: Code
-  icon: favicon-alienware
+  icon: 💻
   items:
   - title: GitHub
     description: Source Code, Issues and Pull Requests
@@ -42,7 +42,7 @@ sections:
     icon: far fa-hands-helping
 
 - name: Tontonan
-  icon: fa-brands fa-youtube
+  icon: fa fa-youtube
   items:
   - title: Youtube
     description: Tontonan bersama
