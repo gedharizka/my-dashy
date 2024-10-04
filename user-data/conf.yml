@@ -23,15 +23,18 @@ sections:
     url: https://github.com/gedharizka
     icon: favicon
     target: newtab
+    statusCheck: true
   - title: Gitlab
     description: Configuring & Usage Documentation
     provider: Dashy.to
     icon: favicon
     url: https://gitlab.com
+    statusCheck: true
   - title: Notions
     description: See how others are using Dashy
     url: https://www.notion.so/
     icon: favicon
+    statusCheck: true
   # - title: Config Guide
   #   description: See full list of configuration options
   #   url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
@@ -48,11 +51,13 @@ sections:
     description: Tontonan bersama
     icon: favicon
     url: https://www.youtube.com/
+    statusCheck: true
   - title: Anoboy
     description: Anime 
     url: https://anoboy.foundation/
     icon: favicon
     target: newtab
+    statusCheck: true
 
 - name: Social Media
   icon: fas fa-movie
@@ -61,8 +66,10 @@ sections:
     description: Tontonan bersama
     icon: favicon
     url: https://www.youtube.com/
+    statusCheck: true
   - title: Anoboy
     description: Anime 
     url: https://anoboy.foundation/
     icon: favicon
     target: newtab
+    statusCheck: true
