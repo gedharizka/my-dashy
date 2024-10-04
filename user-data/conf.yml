@@ -26,20 +26,20 @@ sections:
   - title: Gitlab
     description: Configuring & Usage Documentation
     provider: Dashy.to
-    icon: far fa-book
-    url: https://dashy.to/docs
+    icon: favicon
+    url: https://gitlab.com
   - title: Notions
     description: See how others are using Dashy
-    url: https://github.com/Lissy93/dashy/blob/master/docs/showcase.md
-    icon: far fa-grin-hearts
-  - title: Config Guide
-    description: See full list of configuration options
-    url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
-    icon: fas fa-wrench
-  - title: Support
-    description: Get help with Dashy, raise a bug, or get in contact
-    url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
-    icon: far fa-hands-helping
+    url: https://www.notion.so/
+    icon: favicon
+  # - title: Config Guide
+  #   description: See full list of configuration options
+  #   url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
+  #   icon: fas fa-wrench
+  # - title: Support
+  #   description: Get help with Dashy, raise a bug, or get in contact
+  #   url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
+  #   icon: far fa-hands-helping
 
 - name: Tontonan
   icon: fa fa-youtube
