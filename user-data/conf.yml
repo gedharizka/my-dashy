@@ -40,4 +40,17 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
-  
+
+- name: Tontonan
+  icon: fas fa-movie
+  items:
+  - title: Youtube
+    description: Configuring & Usage Documentation
+    icon: far fa-book
+    url: https://www.youtube.com/
+  - title: Anoboy
+    description: Anime 
+    url: https://anoboy.foundation/
+    icon: favicon
+    target: newtab
+    
