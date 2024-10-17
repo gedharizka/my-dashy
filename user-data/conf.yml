@@ -68,6 +68,11 @@ sections:
 - name: Course
   icon: fas fa-movie
   items:
+  - title: Dicoding
+    description: See how others are using Dashy
+    url: https://www.notion.so/
+    icon: favicon
+    statusCheck: true
   - title: Udemy
     description: General Course
     icon: favicon
