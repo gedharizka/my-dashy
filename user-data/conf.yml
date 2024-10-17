@@ -70,7 +70,7 @@ sections:
   items:
   - title: Dicoding
     description: See how others are using Dashy
-    url: https://www.notion.so/
+    url: https://www.dicoding.com/
     icon: favicon
     statusCheck: true
   - title: Udemy
