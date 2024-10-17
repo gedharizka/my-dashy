@@ -44,7 +44,7 @@ sections:
   #   url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
   #   icon: far fa-hands-helping
 
-- name: Tontonan
+- name: Watch
   icon: fa fa-youtube
   items:
   - title: Youtube
@@ -58,18 +58,30 @@ sections:
     icon: favicon
     target: newtab
     statusCheck: true
-
-- name: Social Media
-  icon: fas fa-movie
-  items:
-  - title: Youtube
-    description: Tontonan bersama
-    icon: favicon
-    url: https://www.youtube.com/
-    statusCheck: true
-  - title: Anoboy
+  - title: samehadaku
     description: Anime 
-    url: https://anoboy.foundation/
+    url: https://samehadaku.email/
     icon: favicon
     target: newtab
+    statusCheck: true
+
+- name: Course
+  icon: fas fa-movie
+  items:
+  - title: Udemy
+    description: General Course
+    icon: favicon
+    url: https://www.udemy.com/
+    statusCheck: true
+  - title: Adinusa
+    description: Linux, Docker, Ansible di sini tempatnya
+    icon: favicon
+    target: newtab
+    url: https://adinusa.id/
+    statusCheck: true
+  - title: Aguna Course
+    description: Linux, Docker, Ansible di sini tempatnya
+    icon: favicon
+    target: newtab
+    url: https://www.agunacourse.com/
     statusCheck: true
