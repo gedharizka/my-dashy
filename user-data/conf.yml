@@ -90,3 +90,12 @@ sections:
     target: newtab
     url: https://www.agunacourse.com/
     statusCheck: true
+
+- name: VPS
+  icon: 🧑‍💻
+  items:
+  - title: Contab
+    description: Murah spec dewa
+    url: https://contabo.com/
+    icon: favicon
+    statusCheck: true
