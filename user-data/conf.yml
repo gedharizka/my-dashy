@@ -35,6 +35,11 @@ sections:
     url: https://www.notion.so/
     icon: favicon
     statusCheck: true
+  - title: Taskade
+    description: Alternative Notions nih ....
+    url: https://www.taskade.com/
+    icon: favicon
+    statusCheck: true
   # - title: Config Guide
   #   description: See full list of configuration options
   #   url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
