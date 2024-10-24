@@ -103,4 +103,18 @@ sections:
     description: Murah spec dewa
     url: https://contabo.com/
     icon: favicon
+    statusCheck: true😲
+
+- name: Asset UI
+  icon: 😲
+  items:
+  - title: Blobmaker
+    description: Blob
+    url: https://www.blobmaker.app/
+    icon: favicon
+    statusCheck: true
+  - title: Icon
+    description: Icon
+    url: https://simpleicons.org/
+    icon: favicon
     statusCheck: true
