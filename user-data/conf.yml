@@ -71,7 +71,7 @@ sections:
     statusCheck: true
 
 - name: Course
-  icon: 🧑‍💻
+  icon: 🖱️
   items:
   - title: Dicoding
     description: See how others are using Dashy
