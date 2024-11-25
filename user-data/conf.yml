@@ -118,3 +118,12 @@ sections:
     url: https://simpleicons.org/
     icon: favicon
     statusCheck: true
+
+- name: Reading
+  icon: 😲
+  items:
+  - title: PostgreSQL
+    description: Belajar PostgreSQL
+    url: https://neon.tech/postgresql/postgresql-getting-started/load-postgresql-sample-database
+    icon: favicon
+    statusCheck: true
