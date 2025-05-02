@@ -105,6 +105,15 @@ sections:
     icon: favicon
     statusCheck: true😲
 
+- name: Tools
+  icon: 🪡
+  items:
+  - title: Sign Online
+    description: Create sign .png
+    url: https://www.signwell.com/online-signature/
+    icon: favicon
+    statusCheck: true
+
 - name: Asset UI
   icon: 😲
   items:
