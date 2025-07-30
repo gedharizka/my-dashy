@@ -136,3 +136,17 @@ sections:
     url: https://neon.tech/postgresql/postgresql-getting-started/load-postgresql-sample-database
     icon: favicon
     statusCheck: true
+
+- name: Avartars
+  icon: 👾
+  items:
+  - title: Notion Avatars
+    description: Avatar with Notion style
+    url: https://www.avatartion.com/
+    icon: favicon
+    statusCheck: true
+  - title: Name Generator
+    description: Generate awesome names with AI
+    url: https://namegen.com/
+    icon: favicon
+    statusCheck: true
