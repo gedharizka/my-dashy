@@ -113,6 +113,11 @@ sections:
     url: https://zrok.io/
     icon: favicon
     statusCheck: true
+  - title: Tailscale
+    description: Free VPN
+    url: https://tailscale.com/
+    icon: favicon
+    statusCheck: true
   - title: Sign Online
     description: Create sign .png
     url: https://www.signwell.com/online-signature/
