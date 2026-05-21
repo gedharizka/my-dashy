@@ -24,19 +24,19 @@ sections:
     icon: favicon
     target: newtab
     statusCheck: true
-  - title: Gitlab
-    description: Configuring & Usage Documentation
+  - title: GitLab
+    description: Git hosting and collaboration
     provider: Dashy.to
     icon: favicon
     url: https://gitlab.com
     statusCheck: true
-  - title: Notions
-    description: See how others are using Dashy
+  - title: Notion
+    description: Notes and workspace
     url: https://www.notion.so/
     icon: favicon
     statusCheck: true
   - title: Taskade
-    description: Alternative Notions nih ....
+    description: Alternative workspace and task management
     url: https://www.taskade.com/
     icon: favicon
     statusCheck: true
@@ -52,19 +52,19 @@ sections:
 - name: Watch
   icon: fa fa-youtube
   items:
-  - title: Youtube
+  - title: YouTube
     description: Tontonan bersama
     icon: favicon
     url: https://www.youtube.com/
     statusCheck: true
   - title: Anoboy
-    description: Anime 
+    description: Anime
     url: https://anoboy.foundation/
     icon: favicon
     target: newtab
     statusCheck: true
-  - title: samehadaku
-    description: Anime 
+  - title: Samehadaku
+    description: Anime
     url: https://samehadaku.email/
     icon: favicon
     target: newtab
@@ -99,14 +99,14 @@ sections:
 - name: VPS
   icon: 🧑‍💻
   items:
-  - title: Contab
-    description: Murah spec dewa
+  - title: Contabo
+    description: VPS murah dengan spesifikasi tinggi
     url: https://contabo.com/
     icon: favicon
-    statusCheck: true😲
+    statusCheck: true
 
 - name: Tools
-  icon: 
+  icon: 🛠️
   items:
   - title: Tunnel
     description: Free tunnel
@@ -124,22 +124,22 @@ sections:
     icon: favicon
     statusCheck: true
 
-- name: Asset UI
-  icon: 😲
+- name: UI Assets
+  icon: 🎨
   items:
   - title: Blobmaker
-    description: Blob
+    description: Generator blob shape
     url: https://www.blobmaker.app/
     icon: favicon
     statusCheck: true
-  - title: Icon
-    description: Icon
+  - title: Simple Icons
+    description: Koleksi icon brand
     url: https://simpleicons.org/
     icon: favicon
     statusCheck: true
 
 - name: Reading
-  icon: 😲
+  icon: 📚
   items:
   - title: PostgreSQL
     description: Belajar PostgreSQL
@@ -147,7 +147,26 @@ sections:
     icon: favicon
     statusCheck: true
 
-- name: Avartars
+- name: AI
+  icon: 🤖
+  items:
+  - title: OpenAgentic
+    description: Platform AI dari OpenAgentic
+    url: https://openagentic.id/
+    icon: favicon
+    statusCheck: true
+  - title: Patungin
+    description: Aplikasi AI Patungin
+    url: https://app.patungin.id/
+    icon: favicon
+    statusCheck: true
+  - title: Snifox AI
+    description: Website AI Snifox
+    url: https://snifoxai.com/
+    icon: favicon
+    statusCheck: true
+
+- name: Avatars
   icon: 👾
   items:
   - title: Notion Avatars
