@@ -123,6 +123,11 @@ sections:
     url: https://www.signwell.com/online-signature/
     icon: favicon
     statusCheck: true
+  - title: OTP
+    description: Layanan OTP
+    url: https://flash-otp.flashdev.store/
+    icon: favicon
+    statusCheck: true
 
 - name: UI Assets
   icon: 🎨
