@@ -170,6 +170,35 @@ sections:
     url: https://snifoxai.com/
     icon: favicon
     statusCheck: true
+  - title: Design Prompts
+    description: AI-Powered Design Style Explorer
+    url: https://www.designprompts.dev/
+    icon: favicon
+    statusCheck: true
+  - title: Antigravity Awesome Skills
+    description: Installable GitHub library of 1,400+ agentic skills for Antigravity, Claude Code, Cursor, etc.
+    url: https://github.com/sickn33/antigravity-awesome-skills/tree/main
+    icon: favicon
+    statusCheck: true
+  - title: Skills.sh
+    description: The Agent Skills Directory - Discover and install skills for AI agents.
+    url: https://www.skills.sh/
+    icon: favicon
+    statusCheck: true
+
+- name: AI Asset
+  icon: 🪄
+  items:
+  - title: tweakcn
+    description: Theme Editor & Generator for shadcn/ui
+    url: https://tweakcn.com/
+    icon: favicon
+    statusCheck: true
+  - title: Design Prompts
+    description: AI-Powered Design Style Explorer
+    url: https://www.designprompts.dev/
+    icon: favicon
+    statusCheck: true
 
 - name: Avatars
   icon: 👾
