@@ -74,12 +74,12 @@ sections:
   icon: 🖱️
   items:
   - title: Dicoding
-    description: See how others are using Dashy
+    description: Belajar programming dan mendapatkan sertifikat
     url: https://www.dicoding.com/
     icon: favicon
     statusCheck: true
   - title: Udemy
-    description: General Course
+    description: Platform kursus online dengan berbagai topik
     icon: favicon
     url: https://www.udemy.com/
     statusCheck: true
@@ -109,22 +109,22 @@ sections:
   icon: 🛠️
   items:
   - title: Tunnel
-    description: Free tunnel
+    description: Free tunnel untuk expose localhost ke internet
     url: https://zrok.io/
     icon: favicon
     statusCheck: true
   - title: Tailscale
-    description: Free VPN
+    description: VPN untuk konek device dengan aman
     url: https://tailscale.com/
     icon: favicon
     statusCheck: true
   - title: Sign Online
-    description: Create sign .png
+    description: Buat signature .png untuk dokumen online
     url: https://www.signwell.com/online-signature/
     icon: favicon
     statusCheck: true
   - title: OTP
-    description: Layanan OTP
+    description: Layanan OTP untuk verifikasi akun
     url: https://flash-otp.flashdev.store/
     icon: favicon
     statusCheck: true
@@ -147,7 +147,7 @@ sections:
   icon: 📚
   items:
   - title: PostgreSQL
-    description: Belajar PostgreSQL
+    description: Tutorial dan sample database PostgreSQL
     url: https://neon.tech/postgresql/postgresql-getting-started/load-postgresql-sample-database
     icon: favicon
     statusCheck: true
@@ -156,17 +156,17 @@ sections:
   icon: 🤖
   items:
   - title: OpenAgentic
-    description: Platform AI dari OpenAgentic
+    description: AI agent platform untuk automasi dan workflow
     url: https://openagentic.id/
     icon: favicon
     statusCheck: true
   - title: Patungin
-    description: Aplikasi AI Patungin
+    description: AI chatbot untuk tanya jawab dan bantuan
     url: https://app.patungin.id/
     icon: favicon
     statusCheck: true
   - title: Snifox AI
-    description: Website AI Snifox
+    description: AI assistant untuk produktivitas dan kreativitas
     url: https://snifoxai.com/
     icon: favicon
     statusCheck: true
@@ -183,6 +183,11 @@ sections:
   - title: Skills.sh
     description: The Agent Skills Directory - Discover and install skills for AI agents.
     url: https://www.skills.sh/
+    icon: favicon
+    statusCheck: true
+  - title: UI/UX Pro Max Skill
+    description: Agent skills untuk desain UI/UX yang lebih baik
+    url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
     icon: favicon
     statusCheck: true
 
