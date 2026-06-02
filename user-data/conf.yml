@@ -218,3 +218,27 @@ sections:
     url: https://namegen.com/
     icon: favicon
     statusCheck: true
+
+- name: Payment Gateway
+  icon: 💳
+  items:
+  - title: Midtrans
+    description: Payment gateway untuk e-commerce di Indonesia
+    url: https://midtrans.com/
+    icon: favicon
+    statusCheck: true
+  - title: Bayar.gg
+    description: Platform pembayaran digital
+    url: https://bayar.gg/
+    icon: favicon
+    statusCheck: true
+  - title: Saweria
+    description: Donasi dan support untuk kreator
+    url: https://saweria.co/
+    icon: favicon
+    statusCheck: true
+  - title: Trakteer
+    description: Platform support untuk kreator konten
+    url: https://trakteer.id/
+    icon: favicon
+    statusCheck: true
