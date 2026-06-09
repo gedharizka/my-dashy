@@ -190,6 +190,16 @@ sections:
     url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
     icon: favicon
     statusCheck: true
+  - title: Jembatan AI
+    description: AI platform jembatan untuk automasi dan inovasi
+    url: https://jembatanai.com/
+    icon: favicon
+    statusCheck: true
+  - title: Neo Santara
+    description: Platform AI dan teknologi digital Indonesia
+    url: https://www.neosantara.xyz/
+    icon: favicon
+    statusCheck: true
 
 - name: AI Asset
   icon: 🪄
