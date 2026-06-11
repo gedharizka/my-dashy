@@ -104,6 +104,11 @@ sections:
     url: https://contabo.com/
     icon: favicon
     statusCheck: true
+  - title: HostingMu
+    description: Layanan hosting dan VPS Indonesia
+    url: https://hostingmu.id
+    icon: favicon
+    statusCheck: true
 
 - name: Tools
   icon: 🛠️
@@ -198,6 +203,11 @@ sections:
   - title: Neo Santara
     description: Platform AI dan teknologi digital Indonesia
     url: https://www.neosantara.xyz/
+    icon: favicon
+    statusCheck: true
+  - title: Naraya Router
+    description: Router AI untuk akses dan orkestrasi model
+    url: https://router.naraya.ai
     icon: favicon
     statusCheck: true
 
