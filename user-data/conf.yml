@@ -205,9 +205,14 @@ sections:
     url: https://www.neosantara.xyz/
     icon: favicon
     statusCheck: true
-  - title: Naraya Router
+  - title: Kenari
+    description: Platform AI dan teknologi
+    url: https://kenari.id
+    icon: favicon
+    statusCheck: true
+  - title: ByNara Router
     description: Router AI untuk akses dan orkestrasi model
-    url: https://router.naraya.ai
+    url: https://router.bynara.id/
     icon: favicon
     statusCheck: true
 
