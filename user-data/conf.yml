@@ -210,6 +210,11 @@ sections:
     url: https://router.naraya.ai
     icon: favicon
     statusCheck: true
+  - title: WaveRouter
+    description: Router AI untuk akses dan orkestrasi model
+    url: https://waverouter.web.id/
+    icon: favicon
+    statusCheck: true
 
 - name: AI Asset
   icon: 🪄
